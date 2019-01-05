@@ -1,5 +1,5 @@
-# UFF-Graphical Interfaces Programming - Distance Exams 1 & 2 - 2018.2
-Distance Exams for Graphical Interfaces Programming from Fluminense Federal University - 2018.2 Classe\
+# UFF- Programming with Graphical Interfaces - Distance Exams 1 & 2 - 2018.2
+Distance Exams for Programming with Graphical Interfaces from Fluminense Federal University - 2018.2 Classe\
 Exam 1 - Calculating distances Footrule and Kemeny (create a class)\
 Exam 2 - Building a Tkinter GUI for Exam 1 implementation
 
